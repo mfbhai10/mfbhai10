@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mutasim Fuad Rafi</h1>
 <h3 align="center">A passionate and curious frontend developer from Dhaka,Bangladesh</h3>
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 - 🌱 I’m currently learning **DSA , Full Stack Web Development**
 
